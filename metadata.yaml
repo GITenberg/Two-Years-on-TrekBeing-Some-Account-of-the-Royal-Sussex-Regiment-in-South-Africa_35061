@@ -1,0 +1,36 @@
+_repo: Two-Years-on-TrekBeing-Some-Account-of-the-Royal-Sussex-Regiment-in-South-Africa_35061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du Moulin, Louis Eugène
+    aliases:
+    - Moulin, Louis Eugene du
+    - Moulin, Louis Eugène du
+    gutenberg_agent_id: '37435'
+    url: http://www.gutenberg.org/2009/agents/37435
+  editor:
+    agent_name: Bidder, H. F. (Harold Francis)
+    alias: Bidder, Harold Francis
+    birthdate: 1875
+    gutenberg_agent_id: '37436'
+    url: http://www.gutenberg.org/2009/agents/37436
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2011-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South African War, 1899-1902 -- Regimental histories -- Great Britain'
+- !lcc 'DT'
+- !lcsh 'Great Britain. Army. Royal Sussex Regiment'
+title: 'Two Years on Trek: Being Some Account of the Royal Sussex Regiment in South
+  Africa'
+url: http://www.gutenberg.org/ebooks/35061
