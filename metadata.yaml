@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '37436'
     url: http://www.gutenberg.org/2009/agents/37436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35061#Two-Years-on-TrekBeing-Some-Account-of-the-Royal-Sussex-Regiment-in-South-Africa
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2011-01-24'
 gutenberg_type: Text
